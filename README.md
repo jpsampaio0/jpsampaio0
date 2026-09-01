@@ -10,22 +10,14 @@
 
 </div>
 
----
-
-### ⚡ Projects
-
-* **Zorbyan** — Social platform
-* **Otto** — Desktop automation agent
-
----
 
 ### 📊 GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jpsampaio0&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsampaio0&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -33,6 +25,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=jpsampaio0&style=flat-square&color=blue" />
 
 </div>
